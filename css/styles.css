@@ -4,9 +4,10 @@ h1 {
   font-weight: bolder;
   color: #800080;
   text-align: center;
+  margin:
 }
 body {
-  background-image: url(portfolio.jpg);
+  background-image: url(backgroundpic.jpg);
 }
 h2 {
   font-size: 30px;
@@ -33,7 +34,7 @@ p img{
   font-size: 25px
 }
 body {
-  background-image: url(../images/portfolio.jpg);
+  background-image: url(../images/backgroundpic.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
