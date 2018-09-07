@@ -12,8 +12,9 @@ h2 {
   font-size: 30px;
   font-stretch: expanded;
 }
-h2.myprojects {
+.myprojects {
   color: #7B68EE;
+  font-weight: bold;
 }
 ul {
 
@@ -22,4 +23,7 @@ p img{
   width: 100%;
   height: 200px;
 
+}
+.projectslist {
+  font-style: italic;
 }
