@@ -41,3 +41,19 @@ body {
   background-attachment: fixed;
   background-size: cover;
 }
+#portfolio1 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+}
+#portfolio2 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px #888888;
+}
+
+#portfolio3 {
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px red;
+}
