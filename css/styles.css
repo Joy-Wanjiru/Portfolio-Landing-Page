@@ -6,7 +6,7 @@ h1 {
   text-align: center;
 }
 body {
-  background-image: url(background.jpg);
+  background-image: url(portfolio.jpg);
 }
 h2 {
   font-size: 30px;
@@ -14,7 +14,7 @@ h2 {
 }
 .myprojects {
   color: #7B68EE;
-
+  font-style: italic;
 }
 ul {
 
@@ -31,4 +31,10 @@ p img{
   font-style: normal;
   color: #800080;
   font-size: 25px
+}
+body {
+  background-image: url(../images/portfolio.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
