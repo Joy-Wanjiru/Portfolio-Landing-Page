@@ -33,7 +33,8 @@ p img{
 .aboutjoy {
   font-style: normal;
   color: #800080;
-  font-size: 25px
+  font-size: 25px;
+
 }
 body {
   background-image: url(../images/backgroundpic.jpg);
@@ -55,5 +56,5 @@ body {
 #portfolio3 {
     border: 1px solid;
     padding: 10px;
-    box-shadow: 5px 10px red;
+    box-shadow: 0 1px black;
 }
