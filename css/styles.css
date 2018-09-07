@@ -8,3 +8,10 @@ h1 {
 body {
   background-color: #FFE4E1
 }
+h2 {
+  font-size: 30px;
+  font-stretch: expanded;
+}
+h2.myprojects {
+
+}
