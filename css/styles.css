@@ -27,6 +27,8 @@ p img{
 }
 .projectslist {
   font-style: italic;
+  color: white;
+  font-size: 20px
 }
 .aboutjoy {
   font-style: normal;
