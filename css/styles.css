@@ -13,8 +13,15 @@ h2 {
   font-stretch: expanded;
 }
 h2.myprojects {
-
+  color: #7B68EE;
 }
 ul {
-  line-height: 100px
+
+}
+p img{
+  width: 100%;
+  height: 100px;
+
+}
+
 }
