@@ -65,3 +65,8 @@ em{
 p {
   font-size: 20px;
 }
+@media screen and (max-width: 400px) {
+body {
+  background-color: #CD5C5C;
+}
+    
